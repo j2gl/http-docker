@@ -1,0 +1,17 @@
+h1, section, li  {
+    font-family: 'Droid Sans', sans-serif;
+}
+
+ul {
+    padding: 0px;
+}
+
+li {
+    display: inline;
+    list-style-type: none;
+    padding: 5px;
+}
+
+article {
+    width: 640px;
+}
